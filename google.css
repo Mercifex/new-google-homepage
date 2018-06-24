@@ -1,0 +1,118 @@
+.about-store a {
+	display: inline-block;
+  float: left;
+  padding-top: 20px;
+  padding-left: 20px;
+  color: gray;
+  font-size: 12px;
+}
+
+.top-right a {
+  display: inline-block;
+  padding-top: 20px;
+  padding-right: 20px;
+  float: right;
+  color: gray;
+  font-size: 12px;
+}
+
+.hamburger {
+  display: inline-block;
+  float: right;
+  margin-right: 2px;
+  width: 5px;
+  height: 5px;
+  background-color: gray;
+}
+
+.apps-icon {
+  height: 18px;
+}
+
+.sign {
+  display: inline-block;
+  float: right;
+  padding: 8px 11px;
+  margin-top: 12px;
+  margin-right: 10px;
+  border-radius: 2px;
+  border: 1px solid #4285f4;
+  background: -moz-linear-gradient(top,#4387fd,#4683ea);
+  color: white;
+  outline: none;
+  font-family: sans-serif;
+  font-weight: 700;
+  font-size: 12px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  text-decoration-color: #c5c5c5;
+}
+
+.img {
+  text-align: center;
+  padding-top: 50px;
+}
+
+.search {
+  text-align: center;
+  border-radius: none;
+}
+
+.search-bar {
+  width: 550px;
+  height: 35px; 
+  background-color: white;
+  border: 1px solid #c5c5c5;
+  box-shadow: 3px 3px 5px #c5c5c5, 1px 1px 5px #c5c5c5;
+}
+
+.buttons {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.two-butt {
+  border-radius: 1px;
+  font-family: 'sans serif';
+  font-weight: 700;
+  font-size: 12px;
+  color: gray;
+  background-color: #e5e5e5;
+  border: none;
+  padding: 10px 15px;
+}
+
+.two-butt:hover {
+  border: 1px solid gray;
+  color: black;
+}
+
+.right-side {
+  float: right;
+  padding-right: 15px;
+}
+
+.left-side {
+  padding-left: 15px;
+}
+
+.footer a {
+  color: gray;
+  font-size: 12px;
+}
+
+.footer {
+  position: relative;
+  top: 220px;
+  background-color: #f2f2f2;
+  border-top: 1px solid #e4e4e4;
+  padding: 15px 20px;
+  margin-left: -20px;
+  margin-right: -8px;
+}
